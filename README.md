@@ -5,7 +5,7 @@ Microservice to Retrieve Latest News URLS
 ## About
 
 This application is a simple microservice that will accept a ticker symbol and return the top
-10 latest news stories of
+10 latest news stories regarding that ticker from Yahoo Financial News Feeds.
 
 ## Requirements
 
